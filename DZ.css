@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    background-color: black;
+}
+.container {
+    position: relative;
+
+    width: 1300px;
+    height: 930px;
+
+    margin: 15px auto;
+
+    background-color: black;
+}
+.frame {
+    position: absolute;
+
+    background-color: white;
+
+    border-radius: 15px;
+}
+.frame1 {
+    left: 30px;
+    top: 15px;
+
+    width: 298px;
+    height: 425px;
+}
+.frame2 {
+    left: 343px;
+    top: 15px;
+
+    width: 300px;
+    height: 245px;
+}
+.frame3 {
+    left: 657px;
+    top: 15px;
+
+    width: 300px;
+    height: 245px;
+}
+.frame4 {
+    right: 30px;
+    top: 15px;
+
+    width: 298px;
+    height: 500px;
+}
+.frame5 {
+    left: 30px;
+    top: 453px;
+
+    width: 298px;
+    height: 240px;
+}
+.frame6 {
+    left: 30px;
+    bottom: 15px;
+
+    width: 611px;
+    height: 208px;
+}
+.frame7 {
+    right: 30px;
+    bottom: 15px;
+
+    width: 298px;
+    height: 387px;
+}
+.frame8 {
+    left: 657px;
+    bottom: 15px;
+
+    width: 300px;
+    height: 208px;
+}
+.frame9 {
+    left: 343px;
+    bottom: 235px;
+
+    width: 614px;
+    height: 421px;
+}
